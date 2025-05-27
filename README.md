@@ -39,3 +39,4 @@ ____________________________________
 .Useful for building hypotheses and  understanding data behavior.
 ___________________________________________
 output for Linear regression , Decision  Tree , K mean
+[Uploading output.pdf…]()
