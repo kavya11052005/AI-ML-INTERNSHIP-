@@ -38,5 +38,5 @@ ____________________________________
 
 .Useful for building hypotheses and  understanding data behavior.
 ___________________________________________
-output for Linear regression , Decision  Tree , K mean
-[Uploading output.pdf…]()
+output[output 2.pdf](https://github.com/user-attachments/files/20505747/output.2.pdf)
+
